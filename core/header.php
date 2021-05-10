@@ -8,8 +8,11 @@
 
   <nav class="navbar navbar-expand-md navbar-dark fixed-top" id="banner">
     <div class="container">
+      <img id="logo" src="images/logo png.png">
     <!-- Brand -->
-    <a class="navbar-brand" href="#"><span>Azahel García</span> Especialista en Redes Inalambricas</a>
+      <a class="navbar-brand" href="#">
+      <span>Azahel García</span> Especialista en Redes Inalambricas
+      </a>
 
     <!-- Toggler/collapsibe Button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -18,6 +21,7 @@
 
     <!-- Navbar links -->
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <img src="images/logo png.png">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a class="nav-link" href="#">Inicio</a>

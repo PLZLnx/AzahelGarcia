@@ -8,6 +8,7 @@
 	font-size:1em;
 	}
 	h1,h2,h3,h4,h5,h6{color:#323233;text-transform:uppercase;}
+
 .navbar-brand  span{
 	color: #fed136;
 	font-size:25px;font-weight:700;letter-spacing:0.1em;
@@ -124,7 +125,6 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     margin-bottom: 40px;
 }
 
-}
 
 @media (max-width:768px){
 	.banner-text{
